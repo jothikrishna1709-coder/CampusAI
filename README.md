@@ -115,7 +115,3 @@ uv run streamlit run app.py
 ---
 
 ---
-
-<p align="center">
-  Built with ❤️ by <a href="https://github.com/vemana4">Vemana Hemanth Babu</a>
-</p>
